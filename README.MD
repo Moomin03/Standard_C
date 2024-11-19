@@ -10,7 +10,7 @@
 ---
 ### 디렉토리 구성
 ```sh
-├─Python_for_Data_Analysis
+├─C++ Primer Plus (6th Edition)
 │  └─1차시 C++의 기본
 │  │  ├─1. 기본 출력
 │  │  ├─2. 변수 사용
