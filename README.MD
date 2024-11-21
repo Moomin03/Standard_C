@@ -4,7 +4,8 @@
 ![Book](https://m.media-amazon.com/images/I/71ubmvbhDYL._SY342_.jpg)
 ---
 ### 실습 환경 구성
-    - 운영체제 : Mac
+    - PC : MackBook Air 2020, M1 Chip
+    - macOS : Mac
     - g++ version : 10.3.0
 
 ---
