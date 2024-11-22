@@ -17,8 +17,8 @@
 
 ---
 ### ✅ 실습 환경 구성
-- **PC** : MackBook Air 2020, M1 Chip
-- **macOS** : Mac
+- **PC** : 🖥️ MackBook Air 2020, M1 Chip
+- **macOS** : 🍎 Mac
 - **g++ version** : 10.3.0
 
 ---
