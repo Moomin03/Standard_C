@@ -73,13 +73,16 @@
 ### 실행 방법
 1. Terminal (cmd) 열기
 2. 디렉토리 생성:
+    ```bash
     mkdir "Git 파일"
 3. 저장소 클론:
     ```bash
     git clone https://github.com/Moomin03/Standard_C.git
 4. 디렉토리 이동:
+    ```bash
     cd Standard_C
 5. 컴파일 및 실행:
+    ```bash
     g++ -o 저장할_파일 실행할_파일명.cpp
     ./저장할_파일
 
